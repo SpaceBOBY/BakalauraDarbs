@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET Core", "ASP.NET Core\ASP.NET Core.csproj", "{CC0AA13B-C78A-4B7C-A462-0F5C29405E81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89282C06-BDA7-4D46-B081-62256393859E}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "PHP", "PHP\PHP.phpproj", "{274C2DCD-7515-4A2A-A329-B3F493BFC6B7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Django", "Django\Django.pyproj", "{16373FDA-9EBD-45AD-AAFB-044D0BD50274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0AA13B-C78A-4B7C-A462-0F5C29405E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0AA13B-C78A-4B7C-A462-0F5C29405E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0AA13B-C78A-4B7C-A462-0F5C29405E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0AA13B-C78A-4B7C-A462-0F5C29405E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274C2DCD-7515-4A2A-A329-B3F493BFC6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274C2DCD-7515-4A2A-A329-B3F493BFC6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274C2DCD-7515-4A2A-A329-B3F493BFC6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274C2DCD-7515-4A2A-A329-B3F493BFC6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16373FDA-9EBD-45AD-AAFB-044D0BD50274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16373FDA-9EBD-45AD-AAFB-044D0BD50274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16373FDA-9EBD-45AD-AAFB-044D0BD50274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16373FDA-9EBD-45AD-AAFB-044D0BD50274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE756B2-1934-4F51-9B5A-1787A894A45B}
+	EndGlobalSection
+EndGlobal
