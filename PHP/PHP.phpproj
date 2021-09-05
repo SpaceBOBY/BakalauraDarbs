@@ -1,0 +1,24 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>7.4</RuntimeVersion>
+    <SaveServerSettingsInUserFile>false</SaveServerSettingsInUserFile>
+    <PHPDevHostName>localhost</PHPDevHostName>
+    <PHPDevAutoPort>false</PHPDevAutoPort>
+    <PHPDevRouting />
+    <PHPDevPort>5001</PHPDevPort>
+    <RootNamespace>Asynchronous\PHP\Testing</RootNamespace>
+    <WebRoot />
+    <CustomServerUrl>http://localhost/phpAsync</CustomServerUrl>
+    <CustomXdebugPort>5004</CustomXdebugPort>
+    <PublishEvent>None</PublishEvent>
+    <PublishBeforeDebugProfile />
+    <DebugMappingMethod>Automatic</DebugMappingMethod>
+    <DebugPathMapping />
+    <DBGpProxyEnabled>false</DBGpProxyEnabled>
+    <DBGpProxyHost />
+    <DBGpProxyPort>9001</DBGpProxyPort>
+    <IISProjectUrl>http://localhost:5001/</IISProjectUrl>
+    <IISExpressSslEnabled>false</IISExpressSslEnabled>
+  </PropertyGroup>
+</Project>
