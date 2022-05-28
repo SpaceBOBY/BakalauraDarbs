@@ -1,2 +1,2 @@
 # BakalauraDarbs
-Tie ir tīmekļa programmatūras, testi un rezultāti, kas tika izstrādāti bakalaura darbam "TEHNOLOĢIJU ASINHRONĀS DARBĪBAS SALĪDZINĀJUMS TĪMEKĻA PROGRAMMATŪRAS IZSTRĀDĒ".  Autors: Aleksandrs Stepanovs 181RDB229
+Tie ir tīmekļa programmatūras, testi un rezultāti, kas tika izstrādāti bakalaura darbam "TĪMEKĻA PROGRAMMATŪRAS IZSTRĀDES TEHNOLOĢIJU ASINHRONĀS DARBĪBAS SALĪDZINĀJUMS".  Autors: Aleksandrs Stepanovs 181RDB229
